@@ -29,7 +29,7 @@ public class AutoCorrectString {
        }
 
     public static void main(String[] args) {
-        System.out.println(AutoCorrectString.autocorrect("youuuu"));
+        System.out.println(AutoCorrectString.autocorrect("Hey, can u send me the documents? I need you to review them."));
     }
    }
 
