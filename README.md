@@ -1,3 +1,4 @@
 # algorithms challenge
 
-Solutions from codewars algorithm challenges in java
+Solutions from codewars algorithm challenges
+language: Java
